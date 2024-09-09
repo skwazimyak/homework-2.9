@@ -1,0 +1,14 @@
+.button{
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: 10px;
+}
+.show{
+    background-color: red;
+    width: fit-content;
+    margin-bottom: 10px;
+}
+.accept{
+    background-color: green;
+}
